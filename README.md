@@ -1,4 +1,4 @@
-# タイトル:画像判別アプリケーション (Cloud Storage格納ファイルをtensorflowにて学習後、keras APIで判別)
+# タイトル:python画像判別アプリケーション (Cloud Storage格納ファイルをtensorflowにて学習後、keras APIで判別)
 
 ## 概要:
 このリポジトリでは、Google Colabを使用して作成された画像判別プログラムを紹介します。さらに、Google BigQueryとCloud Storageを利用して、画像データの抽出と格納が可能です。ディープラーニング技術を活用して、与えられた画像を正確に分類することができます。Google Colabの強力な計算リソースを活用し、BigQueryとCloud Storageの統合により、効率的なデータ管理が実現できます。
